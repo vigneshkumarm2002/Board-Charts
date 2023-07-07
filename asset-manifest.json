@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Board-Charts/static/css/main.f72be87b.css",
+    "main.js": "/Board-Charts/static/js/main.dad5e0db.js",
+    "static/js/787.87db6e1b.chunk.js": "/Board-Charts/static/js/787.87db6e1b.chunk.js",
+    "static/media/settingIcon.svg": "/Board-Charts/static/media/settingIcon.8ccd18e47b4ca49309a5f8721ef479d0.svg",
+    "static/media/revenueIcon.svg": "/Board-Charts/static/media/revenueIcon.6c4f7119db80f3e2418d3b65ddab1b4f.svg",
+    "static/media/totalUser.svg": "/Board-Charts/static/media/totalUser.bfc94b4c4832703dfcf7b38663492b1c.svg",
+    "static/media/transactionIcon.svg": "/Board-Charts/static/media/transactionIcon.324c4658759a3cc79cae8e40c2f5476b.svg",
+    "static/media/totalTransIcon.svg": "/Board-Charts/static/media/totalTransIcon.306cabeb30c6e0203936af6ebfdc34d5.svg",
+    "static/media/userIcon.svg": "/Board-Charts/static/media/userIcon.d2bd0da076f5cd5272b2d38bdb6e34e8.svg",
+    "static/media/dashboardIcon.svg": "/Board-Charts/static/media/dashboardIcon.856b7547dc7f9b912057ff679dbd3c1e.svg",
+    "static/media/likesIcon.svg": "/Board-Charts/static/media/likesIcon.452e530c86866678893f116229140a2f.svg",
+    "static/media/google-icon.svg": "/Board-Charts/static/media/google-icon.41165d8303e4c18f3090750a5c06d3b3.svg",
+    "static/media/menu.svg": "/Board-Charts/static/media/menu.1f82f8efabe260bb05e3f979819a3e3a.svg",
+    "static/media/scheduleIcon.svg": "/Board-Charts/static/media/scheduleIcon.1d4c09f46ea94c57d356afd3945c43a9.svg",
+    "static/media/notification.svg": "/Board-Charts/static/media/notification.a21bc994e84482cd1c660819886490b6.svg",
+    "static/media/apple-icon.svg": "/Board-Charts/static/media/apple-icon.b647c4fe207ebd7e68f450a5d9106c2a.svg",
+    "index.html": "/Board-Charts/index.html",
+    "static/media/search.svg": "/Board-Charts/static/media/search.063cb8f0db78e84763a7b4c2b4816000.svg",
+    "main.f72be87b.css.map": "/Board-Charts/static/css/main.f72be87b.css.map",
+    "main.dad5e0db.js.map": "/Board-Charts/static/js/main.dad5e0db.js.map",
+    "787.87db6e1b.chunk.js.map": "/Board-Charts/static/js/787.87db6e1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f72be87b.css",
+    "static/js/main.dad5e0db.js"
+  ]
+}
