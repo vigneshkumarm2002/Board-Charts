@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Board-Charts/static/css/main.8f021215.css",
+    "main.css": "/Board-Charts/static/css/main.64e24eee.css",
     "main.js": "/Board-Charts/static/js/main.dad5e0db.js",
     "static/js/787.87db6e1b.chunk.js": "/Board-Charts/static/js/787.87db6e1b.chunk.js",
     "static/media/settingIcon.svg": "/Board-Charts/static/media/settingIcon.8ccd18e47b4ca49309a5f8721ef479d0.svg",
@@ -18,12 +18,12 @@
     "static/media/apple-icon.svg": "/Board-Charts/static/media/apple-icon.b647c4fe207ebd7e68f450a5d9106c2a.svg",
     "index.html": "/Board-Charts/index.html",
     "static/media/search.svg": "/Board-Charts/static/media/search.063cb8f0db78e84763a7b4c2b4816000.svg",
-    "main.8f021215.css.map": "/Board-Charts/static/css/main.8f021215.css.map",
+    "main.64e24eee.css.map": "/Board-Charts/static/css/main.64e24eee.css.map",
     "main.dad5e0db.js.map": "/Board-Charts/static/js/main.dad5e0db.js.map",
     "787.87db6e1b.chunk.js.map": "/Board-Charts/static/js/787.87db6e1b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f021215.css",
+    "static/css/main.64e24eee.css",
     "static/js/main.dad5e0db.js"
   ]
 }
